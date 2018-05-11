@@ -1,0 +1,10 @@
+@import "../SCSS-partials/mixins";
+
+.btn-google {
+  @include custom-btn(#dd4b39);
+}
+
+.btn-facebook {
+  @include custom-btn(#3b5998);
+}
+

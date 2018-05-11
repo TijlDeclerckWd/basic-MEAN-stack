@@ -1,0 +1,6 @@
+
+@mixin custom-btn ($bgc: #fff, $radius: 5px) {
+  background-color: $bgc;
+  radius: $radius;
+  cursor: pointer;
+}
